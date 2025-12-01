@@ -18,10 +18,6 @@ Your video to 4k resolution resizer
 
 # Клонируем репозиторий
 git clone https://github.com/mametov/4k-video/4k-video.git
-# Создаём виртуальное окружение
-python3 -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
 
 # Запуск
 python script.py input.mp4
